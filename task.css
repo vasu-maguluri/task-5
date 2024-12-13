@@ -1,0 +1,100 @@
+* {
+    font-family: "Karma", serif;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: white;
+}
+
+header {
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    background-color: whitesmoke;
+}
+
+nav {
+    display: inline-block;
+    font-size: 25px;
+}
+
+.nav1 {
+    margin-left: 200px;
+}
+
+.nav2 {
+    margin-left: 350px;
+}
+
+.nav3 {
+    margin-left: 300px;
+}
+
+.main {
+    text-align: center;
+    margin: 10px;
+}
+
+.main2 {
+    text-align: center;
+    margin-top: -130px;
+}
+
+.item-1,
+.item-2,
+.item-3,
+.item-4 {
+    height: 700px;
+    display: inline-block;
+    width: 250px;
+    vertical-align: top;
+    margin: 10px;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: 600;
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    margin: 0;
+}
+
+.navigation {
+    text-align: center;
+    margin-top: -35px;
+}
+
+a {
+    font-size: 18px;
+    margin: 10px;
+    color: whitesmoke;
+    font-weight: 600;
+}
+
+.line1 {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
+    color: black;
+}
+
+.chef {
+    text-align: center;
+    font-weight: 600;
+    margin-top: 45px;
+    padding: 20px;
+
+}
+
+.chefImg {
+    width: 60%;
+   margin: auto;
+}
